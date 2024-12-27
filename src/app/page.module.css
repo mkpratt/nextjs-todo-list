@@ -1,0 +1,7 @@
+
+.container {
+  width: 400px;
+  max-width: calc(100vw - 2rem);
+  height: calc(100vh - 2rem);
+  max-height: 800px;
+}
